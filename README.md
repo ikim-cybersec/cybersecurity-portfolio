@@ -1,6 +1,3 @@
-# cybersecurity-portfolio
-My professional cybersecurity portfolio -- labs, projects, and certifications
-
 # # 🔒 Cybersecurity Portfolio — [Isaac Kim] 
  
 Welcome to my cybersecurity portfolio. I am a student at ECPI University 
